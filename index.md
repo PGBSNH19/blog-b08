@@ -2,9 +2,9 @@
 
 Lektion:
 
-[01: beskrivning](00.md)
+[01: Simple Webserver](00.md)
 
-02: beskrivning
+[02: Azure, vm, pulumi](01.md)
 
 03: beskrivning
 
